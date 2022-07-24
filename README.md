@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/3451891/180629522-40221d15-3080-46cd-a5c4-5605326030da.png)
 
-An atomin deposition simulation model written entirely in **Python**. **PytOpenGL** library is used for 3D visualization of individual atoms being deposited on a flat surface. This was done as a course project (EE216: Nanomaterials and Nanometer-scale Device) at UCSC and was done with a group of three PhD students:
+A 3D atomic deposition simulation model written entirely in **Python**. **PytOpenGL** library is used for 3D visualization of individual atoms being deposited on a flat surface. This was done as a course project (EE216: Nanomaterials and Nanometer-scale Device) at UCSC and was done with a group of three PhD students:
 - Yucheng Li
 - Md Nafiz Amin
 - Vahid Ganjalizadeh (https://github.com/vganjali)
