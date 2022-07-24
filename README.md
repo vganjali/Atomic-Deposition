@@ -63,6 +63,7 @@ where
 - ![image](https://user-images.githubusercontent.com/3451891/180628937-726dbce3-8b9c-4347-9367-a8a6a5204a98.png)
 
 
+## Snapshots taken while running simulation
 ![image](https://user-images.githubusercontent.com/3451891/180629104-1f860d90-c5b9-4d6b-aa85-c049deb5f4c9.png)
 ![image](https://user-images.githubusercontent.com/3451891/180629108-0cfbdc5f-2bcf-40f1-9655-9e500cb1115c.png)
 ![image](https://user-images.githubusercontent.com/3451891/180629110-369719a0-ad57-47ab-aff1-663362ff229e.png)
