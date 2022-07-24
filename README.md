@@ -1,3 +1,8 @@
+An atomin deposition simulation model written entirely in Python. PytOpenGL library is used for 3D visualization of individual atoms being deposited on a flat surface. This was done as a course project (EE216: Nanomaterials and Nanometer-scale Device) at UCSC and was done with a group of three PhD students:
+- Yucheng Li
+- Md Nafiz Amin
+- Vahid Ganjalizadeh (https://github.com/vganjali)
+
 ## Basic Physics: L-J potential
 The Lennard-Jones potential (L-J potential) is a mathematical model to approximate the interaction between a pair of neutral atoms or molecules.
 $V_{LJ}=4\epsilon[(\frac{\sigma}{r})^{12}-(\frac{\sigma}{r})^{6}]=\epsilon[(\frac{r_{m}}{r})^{12}-2(\frac{r_{m}}{r})^{6}]$
